@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "png-to-ico": "^2.1.8",
+    "sharp": "^0.31.3"
+  },
+  "name": "favicon-processor",
+  "description": "Converting PNG/JPG files into ICO file and outputting multiple different size images.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  },
+  "scripts": {
+    "build": "npm build",
+    "dev": "node .",
+    "start": "node .",
+    "i": "node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
